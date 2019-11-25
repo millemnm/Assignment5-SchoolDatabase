@@ -51,6 +51,8 @@ g++ *.cpp
   
   A command to switch a Students major.
   
+  Rollback doesn't save the whole tree, it either saves an int or the person to rebuild from.
+  
 
 ## Sources:
   https://www.geeksforgeeks.org/inheritance-in-c/#Modes%20of%20Inheritance
